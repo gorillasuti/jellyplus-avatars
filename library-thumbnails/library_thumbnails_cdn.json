@@ -1,0 +1,185 @@
+{
+  "total_items": 34,
+  "folder_counts": {
+    "with-text": 17,
+    "without-text": 17
+  },
+  "folders": [
+    "with-text",
+    "without-text"
+  ],
+  "with-text": [
+    {
+      "name": "adult",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/adult.webp"
+    },
+    {
+      "name": "animation",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/animation.webp"
+    },
+    {
+      "name": "anime",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/anime.webp"
+    },
+    {
+      "name": "books",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/books.webp"
+    },
+    {
+      "name": "cartoon",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/cartoon.webp"
+    },
+    {
+      "name": "documentary",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/documentary.webp"
+    },
+    {
+      "name": "homemade",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/homemade.webp"
+    },
+    {
+      "name": "kids",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/kids.webp"
+    },
+    {
+      "name": "mixed-2",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/mixed-2.webp"
+    },
+    {
+      "name": "mixed",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/mixed.webp"
+    },
+    {
+      "name": "movies",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/movies.webp"
+    },
+    {
+      "name": "music",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/music.webp"
+    },
+    {
+      "name": "photos",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/photos.webp"
+    },
+    {
+      "name": "podcast",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/podcast.webp"
+    },
+    {
+      "name": "sports",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/sports.webp"
+    },
+    {
+      "name": "tv-shows",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/tv-shows.webp"
+    },
+    {
+      "name": "vintage",
+      "folder": "with-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/with-text/vintage.webp"
+    }
+  ],
+  "without-text": [
+    {
+      "name": "adult",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/adult.webp"
+    },
+    {
+      "name": "animation",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/animation.webp"
+    },
+    {
+      "name": "anime",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/anime.webp"
+    },
+    {
+      "name": "books",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/books.webp"
+    },
+    {
+      "name": "cartoon",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/cartoon.webp"
+    },
+    {
+      "name": "documentary",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/documentary.webp"
+    },
+    {
+      "name": "homemade",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/homemade.webp"
+    },
+    {
+      "name": "kids",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/kids.webp"
+    },
+    {
+      "name": "mixed-2",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/mixed-2.webp"
+    },
+    {
+      "name": "mixed",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/mixed.webp"
+    },
+    {
+      "name": "movies",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/movies.webp"
+    },
+    {
+      "name": "music",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/music.webp"
+    },
+    {
+      "name": "photos",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/photos.webp"
+    },
+    {
+      "name": "podcast",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/podcast.webp"
+    },
+    {
+      "name": "sports",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/sports.webp"
+    },
+    {
+      "name": "tv-shows",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/tv-shows.webp"
+    },
+    {
+      "name": "vintage",
+      "folder": "without-text",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/library-thumbnails/without-text/vintage.webp"
+    }
+  ]
+}
