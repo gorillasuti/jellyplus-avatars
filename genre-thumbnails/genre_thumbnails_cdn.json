@@ -53,14 +53,14 @@
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/fantasy.webp"
     },
     {
+      "name": "horror",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/horror.webp"
+    },
+    {
       "name": "martial",
       "folder": "genres",
       "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/martial.webp"
-    },
-    {
-      "name": "mystery",
-      "folder": "genres",
-      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/mystery.webp"
     },
     {
       "name": "romance",
