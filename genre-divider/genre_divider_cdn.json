@@ -1,0 +1,16 @@
+{
+  "total_items": 1,
+  "folder_counts": {
+    "divider": 1
+  },
+  "folders": [
+    "divider"
+  ],
+  "divider": [
+    {
+      "name": "Genre divider",
+      "folder": "divider",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-divider/divider/Genre%20divider.webp"
+    }
+  ]
+}

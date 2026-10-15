@@ -1,0 +1,86 @@
+{
+  "total_items": 15,
+  "folder_counts": {
+    "genres": 15
+  },
+  "folders": [
+    "genres"
+  ],
+  "genres": [
+    {
+      "name": "action",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/action.webp"
+    },
+    {
+      "name": "adventure",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/adventure.webp"
+    },
+    {
+      "name": "animation",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/animation.webp"
+    },
+    {
+      "name": "anime",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/anime.webp"
+    },
+    {
+      "name": "comedy",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/comedy.webp"
+    },
+    {
+      "name": "crime",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/crime.webp"
+    },
+    {
+      "name": "drama",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/drama.webp"
+    },
+    {
+      "name": "family",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/family.webp"
+    },
+    {
+      "name": "fantasy",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/fantasy.webp"
+    },
+    {
+      "name": "martial",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/martial.webp"
+    },
+    {
+      "name": "mystery",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/mystery.webp"
+    },
+    {
+      "name": "romance",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/romance.webp"
+    },
+    {
+      "name": "sci-fi",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/sci-fi.webp"
+    },
+    {
+      "name": "thriller",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/thriller.webp"
+    },
+    {
+      "name": "war",
+      "folder": "genres",
+      "url": "https://cdn.jsdelivr.net/gh/gorillasuti/jellyplus-images@main/genre-thumbnails/genres/war.webp"
+    }
+  ]
+}
